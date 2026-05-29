@@ -24,6 +24,16 @@ This repository contains the formalization and proof chain for analog spline the
 | [`flash-debate.md`](flash-debate.md) | Flash model debate transcript |
 | [`seed-debate.md`](seed-debate.md) | Seed model debate transcript |
 | [`nemotron-debate.md`](nemotron-debate.md) | Nemotron model debate transcript |
+| [`galois-connection-proof.md`](galois-connection-proof.md) | Standalone Galois connection proof |
+| [`galois-connection-proof-deepseek.md`](galois-connection-proof-deepseek.md) | DeepSeek's Galois connection proof |
+| [`flux_galois_coq.v`](flux_galois_coq.v) | Coq formalization of the Galois connection |
+| [`galois-unification-visualizer.py`](galois-unification-visualizer.py) | Python visualizer for Galois unification |
+| [`SPLINE-PHYSICS-SYNERGY.md`](SPLINE-PHYSICS-SYNERGY.md) | Spline physics connections |
+| [`HPDF-PPDF-SPLINE-RETRIEVAL.md`](HPDF-PPDF-SPLINE-RETRIEVAL.md) | HPDF/PPDF spline retrieval analysis |
+
+## Connection to Conservation Spectral Analysis
+
+Analog spline theory connects to the broader conservation spectral ecosystem through the **Galois connection** between physical constraint surfaces and their computational representations. Just as the Shipwright's Theorem establishes bounded correspondence between physical battens and Bézier curves, conservation spectral analysis maps physical conservation laws to discrete spectral signatures. The shared mathematical structure — constraint lattices, categorical adjunctions, and certifiable approximation — provides a unified framework for understanding how continuous physical phenomena embed into discrete computational systems.
 
 ## Provenance
 
