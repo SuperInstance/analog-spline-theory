@@ -38,3 +38,5 @@ Analog spline theory connects to the broader conservation spectral ecosystem thr
 ## Provenance
 
 Extracted from the [forgemaster](https://github.com/SuperInstance/forgemaster) `retro-sunset-plato` branch. Developed as part of the Retro Sunset Plato research program.
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
